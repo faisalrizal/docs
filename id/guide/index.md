@@ -65,7 +65,7 @@ Ketika meluncurkan `nuxt`, ini akan memulai sebuah pengembangan server hot-reloa
 
 ### Single Page Applications (SPA)
 
-Jika, untuk beberapa alasan, Anda lebih suka untuk tidak menggunakan render sisi server atau butuh hosting statis untuk aplikasi Anda, Anda bisa menggunakan mode SPA dengan mudah menggunala `nuxt --spa`. Dalam kombinasi dengan fitur *generate*, ini memberi Anda sebuah mekanisme pengembangan SPA yang kuat tanpa menggunakan runtime Node.js atau penanganan server khusus lainnya.
+Jika, untuk beberapa alasan, Anda lebih suka untuk tidak menggunakan render sisi server atau butuh hosting statis untuk aplikasi Anda, Anda bisa menggunakan mode SPA dengan mudah menggunakan `nuxt --spa`. Dalam kombinasi dengan fitur *generate*, ini memberi Anda sebuah mekanisme pengembangan SPA yang kuat tanpa menggunakan runtime Node.js atau penanganan server khusus lainnya.
 
 Lihat di [sebuah perintah](/guide/commands) untuk belajar lebih banyak tentang kegunaannya.
 
